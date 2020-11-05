@@ -1,0 +1,2 @@
+# Smart-Agriculture-System-Using-IOT
+In this project we measure soil and atmospheric parameters in a polyhouse. When the temperature exceeds a limit, motor for spraying the water will be turned ON and if the moisture content of soil goes below a predefined value, motor for drip irrigation will be turned ON. The LCD will display the measured parameters in a fixed interval of time. We are using pot to represent sensors. The contrast of LCD can be controlled using a pot connected to the breadboard.
